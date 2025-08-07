@@ -15,6 +15,6 @@ To overcome this, we generated a living biobank of patient-derived ovarian cance
 
 ### See our preprint
 
-> **Barnes BM**, Littler S, Tighe A, Evans A, Altringham J, Nelson L, Lin I-H, Morgan RD, McGrail JC, Taylor SS.  
+> Barnes BM, Littler S, Tighe A, Evans A, Altringham J, Nelson L, Lin I-H, Morgan RD, McGrail JC, Taylor SS.  
 > *Transcriptional Circuitry in HGSOC: A Dynamic Three-State Model Informed by a Living Biobank of Purified Tumour Fractions.*  
 > _bioRxiv._ 2025 Jul 18. doi: [10.1101/2025.07.18.665513](https://doi.org/10.1101/2025.07.18.665513)
